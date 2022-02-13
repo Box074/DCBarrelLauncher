@@ -1,0 +1,16 @@
+{
+  "ProjectName": "DCBarrelLauncher",
+  "ModVersion": "0.0.0.0",
+  "CodeDir": ".\\Scripts\\",
+  "EmbeddedResourceDir": ".\\EmbeddedResource\\",
+  "EmbeddedResource": {
+    "gun.png": "DCBarrelLauncher.gun.png",
+    "barrel_fall0000.png": "DCBarrelLauncher.barrel.png",
+    "weapon_firecrossbow_shot.wav": "DCBarrelLauncher.shot.wav"
+  },
+  "Guid": "84e66e09-d31b-459d-93c7-685b51aead1d",
+  "DependenciesDir": ".\\Dependencies\\",
+  "ModdingAPIVersion": "1.5.78.11833-67",
+  "IgnoreDlls": [],
+  "WebDependencies": []
+}
